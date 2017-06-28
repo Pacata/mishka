@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Pacata](https://up.htmlacademy.ru).
-* Наставник: `uaq`.
+* Наставник: [uaq].
 
 ---
 
