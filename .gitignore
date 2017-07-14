@@ -6,5 +6,6 @@
 *.psd
 *.sublime*
 css/*.css
+mishka_maket/*
 node_modules/
 Thumbs.db
